@@ -133,9 +133,7 @@ The implementation successfully meets all assessment requirements while maintain
 
 # Screenshots
 
-![0](https://github.com/user-attachments/assets/ea8464d2-580f-4a19-a263-504f148d93c7)
-![1](https://github.com/user-attachments/assets/30c1533d-6029-462b-a80f-4c679a640d2c)
-![2](https://github.com/user-attachments/assets/3de071a6-b1f6-4d14-8a10-9bc084b62e23)
-![3](https://github.com/user-attachments/assets/2239d747-ece2-453c-b696-68f283cc4551)
-![4](https://github.com/user-attachments/assets/ca0cf29d-9c7c-48f0-82f2-832eba6c31e1)
-![5](https://github.com/user-attachments/assets/5430c311-e2b7-46fb-8271-8167ce05db25)
+![0](https://github.com/rajatsah95/vsAssignment/blob/main/images/01.jpg)
+![1](https://github.com/rajatsah95/vsAssignment/blob/main/images/02.jpg)
+![2](https://github.com/rajatsah95/vsAssignment/blob/main/images/03.jpg)
+![3](https://github.com/rajatsah95/vsAssignment/blob/main/images/04.jpg)
