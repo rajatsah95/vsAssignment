@@ -588,3 +588,297 @@
 ```
 
 ---
+
+## Request at 2026-03-25 12:31:55
+
+### Pipeline Request
+```json
+{
+  "nodes": [
+    {
+      "id": "text-5",
+      "type": "text",
+      "position": {
+        "x": -2143.2362769005667,
+        "y": -281.8188925203651
+      },
+      "data": {
+        "id": "text-5",
+        "nodeType": "text"
+      },
+      "width": 250,
+      "height": 149,
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "aggeregate-3",
+      "type": "aggeregate",
+      "position": {
+        "x": -1558.9255068013968,
+        "y": -282.76226797973754
+      },
+      "data": {
+        "id": "aggeregate-3",
+        "nodeType": "aggeregate"
+      },
+      "width": 250,
+      "height": 151,
+      "selected": false,
+      "dragging": false
+    }
+  ],
+  "edges": [
+    {
+      "type": "custom",
+      "deletable": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#b1b1b7"
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "width": 12,
+        "height": 12,
+        "color": "#b1b1b7"
+      },
+      "animated": true,
+      "source": "text-5",
+      "sourceHandle": "text-5-output",
+      "target": "aggeregate-3",
+      "targetHandle": "aggeregate-3-input1",
+      "id": "reactflow__edge-text-5text-5-output-aggeregate-3aggeregate-3-input1"
+    },
+    {
+      "type": "custom",
+      "deletable": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#b1b1b7"
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "width": 12,
+        "height": 12,
+        "color": "#b1b1b7"
+      },
+      "animated": true,
+      "source": "text-5",
+      "sourceHandle": "text-5-output",
+      "target": "aggeregate-3",
+      "targetHandle": "aggeregate-3-input2",
+      "id": "reactflow__edge-text-5text-5-output-aggeregate-3aggeregate-3-input2"
+    }
+  ]
+}
+```
+
+### Pipeline Response
+```json
+{
+  "num_nodes": 2,
+  "num_edges": 2,
+  "is_dag": true,
+  "is_pipeline": true,
+  "dag_validation_messages": [],
+  "pipeline_validation_messages": []
+}
+```
+
+---
+
+## Request at 2026-03-25 12:33:16
+
+### Pipeline Request
+```json
+{
+  "nodes": [
+    {
+      "id": "text-5",
+      "type": "text",
+      "position": {
+        "x": -2143.2362769005667,
+        "y": -281.8188925203651
+      },
+      "data": {
+        "id": "text-5",
+        "nodeType": "text"
+      },
+      "width": 250,
+      "height": 149,
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "aggeregate-3",
+      "type": "aggeregate",
+      "position": {
+        "x": -1558.9255068013968,
+        "y": -282.76226797973754
+      },
+      "data": {
+        "id": "aggeregate-3",
+        "nodeType": "aggeregate"
+      },
+      "width": 250,
+      "height": 151,
+      "selected": false,
+      "dragging": false
+    }
+  ],
+  "edges": [
+    {
+      "type": "custom",
+      "deletable": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#b1b1b7"
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "width": 12,
+        "height": 12,
+        "color": "#b1b1b7"
+      },
+      "animated": true,
+      "source": "text-5",
+      "sourceHandle": "text-5-output",
+      "target": "aggeregate-3",
+      "targetHandle": "aggeregate-3-input1",
+      "id": "reactflow__edge-text-5text-5-output-aggeregate-3aggeregate-3-input1"
+    },
+    {
+      "type": "custom",
+      "deletable": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#b1b1b7"
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "width": 12,
+        "height": 12,
+        "color": "#b1b1b7"
+      },
+      "animated": true,
+      "source": "text-5",
+      "sourceHandle": "text-5-output",
+      "target": "aggeregate-3",
+      "targetHandle": "aggeregate-3-input2",
+      "id": "reactflow__edge-text-5text-5-output-aggeregate-3aggeregate-3-input2"
+    }
+  ]
+}
+```
+
+### Pipeline Response
+```json
+{
+  "num_nodes": 2,
+  "num_edges": 2,
+  "is_dag": true,
+  "is_pipeline": true,
+  "dag_validation_messages": [],
+  "pipeline_validation_messages": []
+}
+```
+
+---
+
+## Request at 2026-03-25 12:58:18
+
+### Pipeline Request
+```json
+{
+  "nodes": [
+    {
+      "id": "text-5",
+      "type": "text",
+      "position": {
+        "x": -2098.31040745832,
+        "y": -301.55618932240793
+      },
+      "data": {
+        "id": "text-5",
+        "nodeType": "text"
+      },
+      "width": 250,
+      "height": 145,
+      "selected": false,
+      "dragging": false
+    },
+    {
+      "id": "aggeregate-3",
+      "type": "aggeregate",
+      "position": {
+        "x": -2088.3874146530597,
+        "y": 16.04077510243414
+      },
+      "data": {
+        "id": "aggeregate-3",
+        "nodeType": "aggeregate"
+      },
+      "width": 250,
+      "height": 151,
+      "selected": true,
+      "dragging": false
+    }
+  ],
+  "edges": [
+    {
+      "type": "custom",
+      "deletable": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#b1b1b7"
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "width": 12,
+        "height": 12,
+        "color": "#b1b1b7"
+      },
+      "animated": true,
+      "source": "text-5",
+      "sourceHandle": "text-5-output",
+      "target": "aggeregate-3",
+      "targetHandle": "aggeregate-3-input1",
+      "id": "reactflow__edge-text-5text-5-output-aggeregate-3aggeregate-3-input1"
+    },
+    {
+      "type": "custom",
+      "deletable": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#b1b1b7"
+      },
+      "markerEnd": {
+        "type": "arrowclosed",
+        "width": 12,
+        "height": 12,
+        "color": "#b1b1b7"
+      },
+      "animated": true,
+      "source": "text-5",
+      "sourceHandle": "text-5-output",
+      "target": "aggeregate-3",
+      "targetHandle": "aggeregate-3-input2",
+      "id": "reactflow__edge-text-5text-5-output-aggeregate-3aggeregate-3-input2"
+    }
+  ]
+}
+```
+
+### Pipeline Response
+```json
+{
+  "num_nodes": 2,
+  "num_edges": 2,
+  "is_dag": true,
+  "is_pipeline": true,
+  "dag_validation_messages": [],
+  "pipeline_validation_messages": []
+}
+```
+
+---
